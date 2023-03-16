@@ -1,15 +1,15 @@
 {
-	"folders": [
-		{
-			"name": "{root}",
-			"path": "."
-		},
-		{
-			"path": "newer"
-		},
-		{
-			"path": "ancient"
-		}
-	],
-	"settings": {}
+  "folders": [
+    {
+      "name": "{root}",
+      "path": "."
+    },
+    {
+      "path": "clean"
+    },
+    {
+      "path": "ancient"
+    }
+  ],
+  "settings": {}
 }
