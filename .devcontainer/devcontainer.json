@@ -26,6 +26,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "Azurite.azurite",
         "dbaeumer.vscode-eslint",
         "ms-azuretools.vscode-azurefunctions",
         "ms-azuretools.vscode-azureresourcegroups",
