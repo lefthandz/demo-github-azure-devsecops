@@ -31,7 +31,9 @@
         "ms-azuretools.vscode-azureresourcegroups",
         "ms-azuretools.vscode-bicep",
         "ms-vscode.azure-account",
-        "msazurermtools.azurerm-vscode-tools"
+        "msazurermtools.azurerm-vscode-tools",
+        "Vue.volar",
+        "Vue.vscode-typescript-vue-plugin"
       ]
     }
   }
