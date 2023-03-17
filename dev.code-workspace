@@ -11,5 +11,7 @@
       "path": "dirty"
     }
   ],
-  "settings": {}
+  "settings": {
+    "debug.internalConsoleOptions": "neverOpen"
+  }
 }
