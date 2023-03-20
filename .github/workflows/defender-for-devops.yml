@@ -22,12 +22,14 @@ on:
   push:
     branches: [ "main" ]
     paths:
-      - iac
+      - .devcontainer/Dockerfile
+      - iac/**
       - .github/workflows/defender-for-devops.yml
   pull_request:
     branches: [ "main" ]
     paths:
-      - iac
+      - .devcontainer/Dockerfile
+      - iac/**
       - .github/workflows/defender-for-devops.yml
 
 jobs:

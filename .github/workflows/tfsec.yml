@@ -10,10 +10,12 @@ on:
     branches: [ "main" ]
     paths:
       - iac/terraform
+      - .github/workflows/tfsec.yml
   pull_request:
     branches: [ "main" ]
     paths:
       - iac/terraform
+      - .github/workflows/tfsec.yml
 
 jobs:
   tfsec:
