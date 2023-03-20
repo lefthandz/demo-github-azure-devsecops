@@ -9,12 +9,12 @@ on:
   push:
     branches: [ "main" ]
     paths:
-      - iac/terraform
+      - iac/terraform/**
       - .github/workflows/tfsec.yml
   pull_request:
     branches: [ "main" ]
     paths:
-      - iac/terraform
+      - iac/terraform/**
       - .github/workflows/tfsec.yml
 
 jobs:
